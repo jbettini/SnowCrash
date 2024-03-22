@@ -1,3 +1,3 @@
-1 - cat /etc/passwd le mdp est haché est afficher pour flag01
-2 - installer john the ripper
-3 - john --show un fichier contenant que le mdp
+1 - Exécutez la commande cat /etc/passwd pour afficher le mot de passe haché de l'utilisateur flag01.
+2 - Installez John the Ripper.
+3 - Utilisez la commande john --show avec un fichier contenant uniquement le mot de passe.

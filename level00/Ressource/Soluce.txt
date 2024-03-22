@@ -1,3 +1,2 @@
-1 - find le seul fichier apartenant a flag00 - find / -user flag00 2>/dev/null
-2 - decoder le contenue du fichier avec la cryptage cesar sur decode.fr
-
+1 - Trouvez le seul fichier appartenant à flag00 : find / -user flag00 2>/dev/null.
+2 - Décodez le contenu du fichier avec le chiffrement César sur decode.fr.
