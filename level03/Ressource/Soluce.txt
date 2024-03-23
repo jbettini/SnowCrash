@@ -1,0 +1,5 @@
+- ls -la l'executable pour voir que l'executable a les droit de flag03
+- gdb l'executable pour afficher le code source la commande echo et executer 
+- aller dans /tmp cree un dossier lol puis cree un fichier echo dedan
+- cree un script qui execute getflag dans le fichier echo
+- modifier le PATH de l'env pour ajouter le chemin vers notre faux echo

