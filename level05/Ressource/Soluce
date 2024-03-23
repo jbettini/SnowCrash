@@ -1,0 +1,5 @@
+- On recois une notif qui d'un nouveau mail voila ce qu'il contient : */2 * * * * su -c "sh /usr/sbin/openarenaserver" - flag05 \
+    toute les 2 min le script /usr/sbin/openarenaserver est executer 
+- find / -user flag05 2>/dev/null cela affiche :/usr/sbin/openarenaserver
+- le fichier :/usr/sbin/openarenaserver contient un script qui execute tout les script dans /opt/openarenaserver dans un sous shell
+- cree un script dans /opt/openarenaserver qui lance getflag et redirige le resultat dans /tmp/getflag_out.txt
