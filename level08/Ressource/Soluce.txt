@@ -1,0 +1,4 @@
+- a l'aide de nm -D level 8 on vois la liste des fonction appeler, et a l'aide de strace et ltrace on vois les argument passé par
+- strstr cherche token si elle trouve elle n'affiche pas le contenue du fichier, et a l'aide de
+- faire un lien symbolique ln -s /home/user/level08/token /tmp/flag08S
+- ./level08 /tmp/flag08S

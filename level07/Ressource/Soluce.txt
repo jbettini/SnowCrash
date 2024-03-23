@@ -1,0 +1,3 @@
+- level07 a les droit de flag07 en utilisant gdb on vois qu'il execute la fonction system("/bin/echo %s") %s = LOGNAME donc le programme affiche le logname %s
+- stocker `/bin/getflag` dans un fichier et faire export LOGNAME=`cat le fichier` apres cela du coup LOGNAME=`/bin/getflag`
+- ./level07 afficher le flag07
