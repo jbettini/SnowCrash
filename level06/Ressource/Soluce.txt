@@ -1,0 +1,5 @@
+- cat level06.php On peut voir que le script php a \
+    une faille l'utilisation de preg_replace avec l'option /e qui intereprete du code
+    le script prend 2 argument  fichier et une string qui n'est pas utiliser
+- crée un fichier dans /tmp qui contiendra [x ${`/bin/getflag > /tmp/output`}] \
+    ensuite ./level06 /tmp/script "" et cela executera le code avec les droit de flag06 
