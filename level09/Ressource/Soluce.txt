@@ -1,0 +1,2 @@
+- le binaire crypte les donnee envoyer en decalant les caractere par rapport a leur index dans la string
+- cree un script en c qui fait l'inverse et lui passer le token
