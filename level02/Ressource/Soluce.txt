@@ -1,3 +1,4 @@
+0 - Copier le fichier present vers l'hote : scp -P 4242 level02@10.211.55.3:/home/user/level02/level02.pcap /Users/ramzi/Desktop 
 1 - Téléchargez Wireshark pour ouvrir le fichier level02.pcap et analyser la capture des paquets réseau.
 2 - Reconstituez le fichier en faisant un clic droit, puis en sélectionnant "Follow TCP Stream".
 3 - Affichez les données en UTF-8.
